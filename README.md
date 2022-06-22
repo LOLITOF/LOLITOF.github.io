@@ -1,2 +1,0 @@
-# LOLITOF.github.io
-tecnoligia

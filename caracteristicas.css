@@ -1,0 +1,74 @@
+div{
+    background-color: black;
+    color: aquamarine;
+    border: 2px solid greenyellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .titulo{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: brown;
+    }
+    body{
+
+        font-size: 35px;
+        background-color: black;
+        
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        position: relative;
+    top: 10px;
+    right: -500px;
+    border-radius: 50%;
+        
+    }
+    .uno{
+        text-align: center;
+        font-family:monospace;
+    font-size: 25px;
+    color: blue;
+        position: relative;
+        top: -270px;
+        right: -10px;
+        width: 35%;
+    }
+    .dos{
+        text-align: center;
+        font-family:monospace;
+    font-size: 25px;
+    color: blue;
+        position: relative;
+        top: -300px;
+        right: -825px;
+        width: 35%;
+
+    }
+    .n1{
+        background-color: black;
+        color: aquamarine;
+        border: 2px solid rgba(6, 247, 106, 0.774);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        position: relative;
+        top: 50px;
+        text-align: center;
+
+    }
+    .n2{
+        background-color: black;
+        color: aquamarine;
+        border: 2px solid rgba(6, 247, 106, 0.774);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        position: relative;
+        top: 50px;
+        text-align: center;
+
+
+    }
+    h2{
+        color: aqua;
+        text-align: center;
+        font-size: 35px;
+    }
